@@ -8,3 +8,10 @@
 body{
     background-color: #ffffff;
 }
+
+.aaa{
+    color: #ff0000;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
